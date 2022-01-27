@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643308735 source:d:\stuff\project\ex.1_matrix\urasc_codeblock\csv_matrix\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+	<time.h>
+	"random.h"
+
+1643308776 d:\stuff\project\ex.1_matrix\urasc_codeblock\csv_matrix\random.h
+	<iostream>
+	<fstream>
+	<random>
+	<time.h>
+
